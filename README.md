@@ -3,7 +3,7 @@
 Welcome to my **C Learning Repository**! This is where I document everything I learn about C – from the very basics to dynamic memory, pointers, file I/O, and beyond. Whether you're a fellow learner or just curious, feel free to explore, steal useful snippets, or suggest improvements. 😉
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/your-repo-name?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/rudra520/your-repo-name?style=flat-square)
 ![Repo size](https://img.shields.io/github/repo-size/yourusername/your-repo-name?style=flat-square)
 
 ---
