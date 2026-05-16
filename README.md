@@ -1,6 +1,6 @@
 # 🚀 My C Programming Journey
 
-Welcome to my **C Learning Repository**! This is where I document everything I learn about C – from the very basics to dynamic memory, pointers, file I/O, and beyond. Whether you're a fellow learner or just curious, feel free to explore, steal useful snippets, or suggest improvements. 😉
+Welcome to my **C Learning Repository**! This is where I document everything I learn about C – from the very basics to dynamic memory, pointers, file I/O, and beyond. Whether you're a fellow learner, contributor, or just curious about C programming, you're in the right place! 
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![GitHub last commit](https://img.shields.io/github/last-commit/rudra520/Web-Dev?style=flat-square)
@@ -38,3 +38,45 @@ I've organized my learning into topics. Click any folder to dive in:
 ### Compile & Run (one-liner)
 ```bash
 gcc program.c -o program && ./program
+```
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+You are free to:
+- ✅ Use this code for personal and commercial projects
+- ✅ Modify and distribute the code
+- ✅ Include it in your own projects
+
+Just remember to include a copy of the license and give credit! 😊
+
+---
+
+## 🤝 Contributing
+
+Found a bug? Have a better solution? Want to add more examples?
+- **Fork** the repo
+- **Create** a new branch (`git checkout -b feature/your-feature`)
+- **Commit** your changes (`git commit -m 'Add your message'`)
+- **Push** to the branch (`git push origin feature/your-feature`)
+- **Open a Pull Request** – I'd love to review it!
+
+---
+
+## 📞 Questions & Support
+
+Got questions about the code? Feel free to:
+- Open an **Issue** in the repo
+- Drop a comment on relevant files
+- Start a **Discussion** if you want to chat about C programming
+
+---
+
+## ⭐ Show Your Support
+
+If this repo helped you learn C, please consider giving it a **star** ⭐ – it helps others find this resource too!
+
+Happy coding! 🎉
